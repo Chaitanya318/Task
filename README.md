@@ -113,7 +113,7 @@ npm start
 Frontend runs on:
 
 ```bash
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
@@ -211,31 +211,11 @@ TaskFlow uses:
 
 ---
 
-## 🚀 Deployment
-
-### Frontend
-
-Deployed on Vercel
-
-### Backend
-
-Deployed on Vercel Serverless Functions
-
-### Database
-
-MongoDB Atlas
-
----
-
 
 
 ## 👨‍💻 Author
 
 Chaitanya Mungase
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
